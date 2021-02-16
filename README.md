@@ -2,7 +2,9 @@
  A hotel management system built on Java and its Swing GUI toolkit.
  
  ## Features 
-
+* Login authentication
+* Manage Booking (View/Add/Edit/Delete)
+* Receipt
 
 ## Screenshots 
 <p float="left">
