@@ -19,6 +19,20 @@
 
 </p>
 
+## Implementations
+- JFrame Form (javax.swing/JFrame)
+- File writer/reader
+- Object-oriented Programming (inheritance, method overloading, etc)
+- Data validation
+
+## External Libraries
+- jcalendar-1.4.jar
+- validator-1.7.jar
+
+## Installation
+
+Simply clone the project and deploy it on your favorite Java IDE.
+
 ## Getting Started 
 1. Git clone this this project </br>`$ git clone https://github.com/V4L3NT1N3/java-hotel-management.git`
 2. Open the project on Eclipse/Netbeans and run `HomeDashboard.java` under src > hotelmanagementsystem 
