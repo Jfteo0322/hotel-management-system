@@ -20,7 +20,7 @@
 ## Implementations
 - JFrame Form (javax.swing/JFrame)
 - File writer/reader
-- Object-oriented Programming (inheritance, method overloading, etc)
+- Object-oriented Programming (constructor, object, array, method overloading/overriding, etc)
 - Data validation
 
 ## External Libraries
