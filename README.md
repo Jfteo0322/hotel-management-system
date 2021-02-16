@@ -33,8 +33,5 @@
 
 Simply clone the project and deploy it on your favorite Java IDE.
 
-## Getting Started 
-1. Git clone this this project </br>`$ git clone https://github.com/Jackfeng0322/hotel-management-system.git`
-2. Open the project on Eclipse/Netbeans and run `HomeDashboard.java` under src > hotelmanagementsystem 
 
 
